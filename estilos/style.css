@@ -6,6 +6,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+html {
+    height: 100vh;
+}
+
 body {
     background-color: #D6E1F0;
 }
